@@ -1,3 +1,21 @@
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<script src="{{ asset('assets/js/core/popper.min.js ')}}"></script>
+<script src="{{ asset('assets/js/core/bootstrap.min.js ')}}"></script>
+<script src="{{ asset('assets/js/plugins/perfect-scrollbar.min.js ')}}"></script>
+<script src="{{ asset('assets/js/plugins/smooth-scrollbar.min.js ')}}"></script>
+<script src="{{ asset('assets/js/plugins/choices.min.js ')}}"></script>
+
+<script src="{{ asset('assets/js/plugins/dragula/dragula.min.js ')}}"></script>
+<script src="{{ asset('assets/js/plugins/jkanban/jkanban.js ')}}"></script>
+<script src="{{ asset('assets/js/plugins/countup.min.js ')}}"></script>
+<script src="{{ asset('assets/js/plugins/chartjs.min.js ')}}"></script>
+<script src="{{ asset('assets/js/plugins/round-slider.min.js ')}}"></script>
+
+<script src="{{ asset('assets/js/argon-dashboard.min.js?v=2.0.5') }}"></script>
+
+<script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
 <script>
     (function(a, s, y, n, c, h, i, d, e) {
       s.className += ' ' + y;
@@ -56,17 +74,7 @@
     })(window, document, 'script', 'dataLayer', 'GTM-NKDMSK6');
   </script>
 
-  <script src="../../assets/js/core/popper.min.js"></script>
-<script src="../../assets/js/core/bootstrap.min.js"></script>
-<script src="../../assets/js/plugins/perfect-scrollbar.min.js"></script>
-<script src="../../assets/js/plugins/smooth-scrollbar.min.js"></script>
-<script src="../../assets/js/plugins/choices.min.js"></script>
-
-<script src="../../assets/js/plugins/dragula/dragula.min.js"></script>
-<script src="../../assets/js/plugins/jkanban/jkanban.js"></script>
-<script src="../../assets/js/plugins/countup.min.js"></script>
-<script src="../../assets/js/plugins/chartjs.min.js"></script>
-<script src="../../assets/js/plugins/round-slider.min.js"></script>
+  
 <script>
     // Rounded slider
     const setValue = function(value, active) {
@@ -317,6 +325,5 @@
     }
   </script>
 
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 
-<script src="../../assets/js/argon-dashboard.min.js?v=2.0.5"></script>
+
